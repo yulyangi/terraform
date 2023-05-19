@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"firewall","Source":"../modules/firewall","Dir":"../modules/firewall"},{"Key":"my_instance","Source":"../modules/instances","Dir":"../modules/instances"},{"Key":"my_vps","Source":"../modules/vpc","Dir":"../modules/vpc"}]}
